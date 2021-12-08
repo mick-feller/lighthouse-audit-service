@@ -7,7 +7,7 @@
     "url": "git+https://github.com/mick-feller/lighthouse-audit-service.git"
   },
   "license": "Apache-2.0",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "types",
