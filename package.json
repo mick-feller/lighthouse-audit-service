@@ -1,10 +1,10 @@
 {
-  "name": "@spotify/lighthouse-audit-service",
+  "name": "@varis/lighthouse-audit-service",
   "description": "Run, store, and view Lighthouse audits on all of your websites",
   "author": "Paul Marbach",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spotify/lighthouse-audit-service.git"
+    "url": "git+https://github.com/mick-feller/lighthouse-audit-service.git"
   },
   "license": "Apache-2.0",
   "version": "0.0.0-development",
@@ -63,7 +63,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
-    "lighthouse": "^7.4.0",
+    "lighthouse": "^9.1.0",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
     "pg": "^8.6.0",
