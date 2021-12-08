@@ -7,7 +7,7 @@
     "url": "git+https://github.com/mick-feller/lighthouse-audit-service.git"
   },
   "license": "Apache-2.0",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "types",
@@ -74,7 +74,7 @@
     "winston": "^3.3.3"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://pkgs.dev.azure.com/GoVaris/_packaging/GoVaris/npm/registry/"
   },
   "engines": {
     "node": ">=12"
